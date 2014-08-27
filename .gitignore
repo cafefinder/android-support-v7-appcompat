@@ -1,0 +1,8 @@
+# Java class files
+*.class
+
+# generated files
+library/bin/
+library/gen/
+project.properties
+.classpath
